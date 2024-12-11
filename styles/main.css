@@ -1,0 +1,153 @@
+#frame {
+    display: inline-block;
+    width: 1230px;
+    margin: 0 auto;
+    margin-top: 54px;
+    margin-left: 46px;
+    text-align: center;
+    background-color: #E8EEFF;
+}
+
+#content {
+    display: inline-block;
+    padding: 96px 290px;
+}
+
+#head {
+    color: #181D27;
+    font-family: 'Inter';
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+#blue {
+    display: inline;
+    color: #0055FF;
+}
+
+#purple {
+    display: inline;
+    color: #6941C6;
+}
+
+#mainText {
+    display: inline;
+    color: #535862;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#crypto {
+    width: 900px;
+    margin-bottom: 64px;
+    margin-top: 16px;
+}
+
+#boxes {
+    display: inline-block;
+    width: 1230px;
+    height: 230px;
+}
+
+#boxOne {
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    width: 390px;
+    height: 208px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+#boxImg {
+    display: block;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+#boxName {
+    display: inline-block;
+    color: #181D27;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+#boxText {
+    display: inline-block;
+    color: #535862;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 17.5 px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+#boxTwo {
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    width: 390px;
+    height: 208px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+#boxThree {
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    width: 390px;
+    height: 208px;
+    vertical-align: middle;
+}
+
+#frameTwo {
+    display: inline-block;
+    background-color: #7F56D9;
+    width: 800px;
+    height: 340px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+#scndHead {
+    display: inline-block;
+    padding-top: 105px;
+    padding-right: 514px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+#suppText {
+    display: inline-block;
+    padding-top: 105px;
+    padding-right: 514px;
+}
+
+#bttnM {
+    display: inline-block;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #D5D7DA;
+}
+
+#bttnG {
+    display: inline-block;
+    padding: 12px 20px;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+    background-color: #7F56D9;
+}
