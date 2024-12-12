@@ -3,7 +3,7 @@
     width: 1230px;
     margin: 0 auto;
     margin-top: 54px;
-    margin-left: 46px;
+    margin-left: 56px;
     text-align: center;
     background-color: #E8EEFF;
 }
@@ -117,6 +117,7 @@
     height: 340px;
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
+    margin-bottom: 164px;
 }
 
 #scndHead {
@@ -128,12 +129,21 @@
     font-size: 36px;
     font-style: normal;
     font-weight: 600;
+    margin-bottom: 8px;
 }
 
 #suppText {
     display: inline-block;
-    padding-top: 105px;
-    padding-right: 514px;
+    width: 720px;
+    text-align: left;
+    height: 20px;
+    margin: 0;
+}
+
+#bttnsManager {
+    display: inline-block;
+    width: 720px;
+    text-align: left;
 }
 
 #bttnM {
@@ -150,4 +160,10 @@
     border: 2px solid #FFFFFF;
     border-radius: 8px;
     background-color: #7F56D9;
+}
+
+#fTwoimg {
+    width: 480px;
+    min-height: 400px;
+    text-align: left;
 }
